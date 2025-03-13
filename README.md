@@ -1,2 +1,2 @@
 # ApxBuild
-A continuous integration and development application written in python
+A continuous integration and deployment application written in python
